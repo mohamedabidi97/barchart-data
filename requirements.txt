@@ -1,0 +1,6 @@
+beautifulsoup4
+datetime
+numpy 
+pandas 
+selenium 
+webdriver-manager
